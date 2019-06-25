@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7ed1a54-a712-4afc-add1-dfd646a4daae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/student_house.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c7ed1a54-a712-4afc-add1-dfd646a4daae" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,8 +128,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="277" />
-    <option name="y" value="116" />
+    <option name="x" value="276" />
+    <option name="y" value="115" />
     <option name="width" value="1490" />
     <option name="height" value="865" />
   </component>
@@ -234,7 +227,7 @@
       <option name="presentableId" value="Default" />
       <updated>1561364328104</updated>
       <workItem from="1561364330475" duration="431000" />
-      <workItem from="1561364764740" duration="5576000" />
+      <workItem from="1561364764740" duration="6194000" />
     </task>
     <task id="LOCAL-00001" summary="python学习1">
       <created>1561369925567</created>
@@ -243,15 +236,21 @@
       <option name="project" value="LOCAL" />
       <updated>1561369925568</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="python学习1">
+      <created>1561421835080</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561421835080</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6007000" />
+    <option name="totallyTimeSpent" value="6625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="222" y="93" width="1192" height="692" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25396827" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
